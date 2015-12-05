@@ -18,7 +18,7 @@ defmodule Test.Mixfile do
   end
 
   # Dependencies can be Hex packages:
-  #
+  #fas
   #   {:mydep, "~> 0.3.0"}
   #
   # Or git/path repositories:
